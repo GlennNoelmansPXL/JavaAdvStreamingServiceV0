@@ -1,7 +1,6 @@
 package be.pxl.ja.streamingservice.controller;
 
 import be.pxl.ja.streamingservice.model.Account;
-import be.pxl.ja.streamingservice.model.Content;
 import be.pxl.ja.streamingservice.model.Profile;
 import be.pxl.ja.streamingservice.StreamingService;
 import be.pxl.ja.streamingservice.StreamingServiceFactory;
